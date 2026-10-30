@@ -650,7 +650,7 @@ dependencies = [
 
 [[package]]
 name = "kanzo"
-version = "0.2.2-windows.1"
+version = "0.2.2-windows.2"
 dependencies = [
  "anyhow",
  "axum",
