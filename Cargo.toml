@@ -1,11 +1,11 @@
 [package]
 name = "kanzo"
-version = "0.2.1"
+version = "0.2.2-windows.1"
 edition = "2024"
 rust-version = "1.89"
 description = "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup."
 license = "AGPL-3.0-only"
-repository = "https://github.com/emanuele-em/kanzo"
+repository = "https://github.com/marcuslannister/kanzo"
 homepage = "https://github.com/emanuele-em/kanzo"
 readme = "README.md"
 keywords = ["kanban", "mcp", "agents", "todo", "claude"]
