@@ -1,3 +1,7 @@
+## Upstream
+
+Code here goes upstream to emanuele-em/kanzo. State a known limit in a plain comment, without the `shortcut:` marker.
+
 ## Agent skills
 
 ### Issue tracker
